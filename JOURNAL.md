@@ -46,3 +46,10 @@ We also made a wiring diagram for the printer motherboard, but since we don't ha
 ![image](https://github.com/user-attachments/assets/70800945-6428-4a2c-b3ad-611858795715)
 
 With all of the specifications for the parts, we can finally work on the CAD starting tomorrow!
+
+# July 9: Working on CAD Files
+## Hours Spent: 8
+
+Today, we started working on the CAD files for our printer. We made accounts for Onshape. The reason we chose Onshape is because it allows real-time collaboration online, which is a great feature for people working in teams, and it is also one of the easiest softwares for beginners. We spent a couple hours familiarizing ourselves with the software by looking at online tutorials and creating mini-projects on Onshape. Then we started discussing about our 3D printer. We narrowed down a couple features for the 3D printer, like deciding between whether we want to split the load by adding another motor and using a smaller gearbox for each or use one stepper motor with a large gearbox. We also discussed if we want to use screws to join the parts or make snap-fit joints. I then tried to make the CAD file for the base but soon realized I needed to learn a lot more before I could actually make the base :( so I went back to the drawing board. Began watching different tutorials about CAD and robotic arms and made a couple more mini projects. Now, I first want to create a list of parts and think about how they will all fit together before diving straight into designing the base. Hopefully I can make the actual base tomorrow :) !
+
+PS: No GitHub links for today because we did not actually commit anything to Git today, it was more of research and learnings!
