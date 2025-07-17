@@ -53,3 +53,20 @@ With all of the specifications for the parts, we can finally work on the CAD sta
 Today, we started working on the CAD files for our printer. We made accounts for Onshape. The reason we chose Onshape is because it allows real-time collaboration online, which is a great feature for people working in teams, and it is also one of the easiest softwares for beginners. We spent a couple hours familiarizing ourselves with the software by looking at online tutorials and creating mini-projects on Onshape. Then we started discussing about our 3D printer. We narrowed down a couple features for the 3D printer, like deciding between whether we want to split the load by adding another motor and using a smaller gearbox for each or use one stepper motor with a large gearbox. We also discussed if we want to use screws to join the parts or make snap-fit joints. I then tried to make the CAD file for the base but soon realized I needed to learn a lot more before I could actually make the base :( so I went back to the drawing board. Began watching different tutorials about CAD and robotic arms and made a couple more mini projects. Now, I first want to create a list of parts and think about how they will all fit together before diving straight into designing the base. Hopefully I can make the actual base tomorrow :) !
 
 PS: No GitHub links for today because we did not actually commit anything to Git today, it was more of research and learnings!
+
+# July 17: 3D Printed Sections list + CAD
+## Hours Spent: 6
+
+Today, we came up with a list of parts that need to be designed on Onshape while delving deeper into the structure and function of every component of the robotic arm that we took inspiration from. After hours of narrowing things down and coming up with different ideas, we made an ordered list from the shoulder/base of the arm to the tip:
+<img width="652" height="1004" alt="image" src="https://github.com/user-attachments/assets/9eca806d-0c10-41fe-884f-11ca8562677b" />
+
+We hope that this table will help us stay organized and not procrastinate on the CAD any further :D
+We decided to split the work and make each person start from different ends of the list, so we made progress on the first and last parts from the list.
+
+The last part looks like this:
+<img width="673" height="761" alt="image" src="https://github.com/user-attachments/assets/4164249b-9373-41ad-9980-fcab98f73b9a" />
+
+The first part looks like this so far:
+<img width="1090" height="943" alt="image" src="https://github.com/user-attachments/assets/0a69ef89-cded-4019-9612-1e3c3aef6150" />
+
+We plan to spend more time and finish the CAD asap. While we are heavily inspired by the tutorial, we are referencing it for the dimensions of bolts and general dimensions of the arm, just so we can go off of something. The actual arm will look different and of course, the functionality will be much more complex and unique. 
