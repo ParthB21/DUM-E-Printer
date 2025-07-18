@@ -3,7 +3,7 @@ title: SCARA 3D Printer
 author: Parth Bhasin and Sujay Golla
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 13
+total_hrs: 32
 ---
 
 # July 1: Brainstorming
@@ -54,7 +54,7 @@ Today, we started working on the CAD files for our printer. We made accounts for
 
 PS: No GitHub links for today because we did not actually commit anything to Git today, it was more of research and learnings!
 
-# July 17: 3D Printed Sections list + CAD
+# July 16: 3D Printed Sections list + CAD
 ## Hours Spent: 6
 
 Today, we came up with a list of parts that need to be designed on Onshape while delving deeper into the structure and function of every component of the robotic arm that we took inspiration from. After hours of narrowing things down and coming up with different ideas, we made an ordered list from the shoulder/base of the arm to the tip:
@@ -70,3 +70,17 @@ The first part looks like this so far:
 <img width="1090" height="943" alt="image" src="https://github.com/user-attachments/assets/0a69ef89-cded-4019-9612-1e3c3aef6150" />
 
 We plan to spend more time and finish the CAD asap. While we are heavily inspired by the tutorial, we are referencing it for the dimensions of bolts and general dimensions of the arm, just so we can go off of something. The actual arm will look different and of course, the functionality will be much more complex and unique. 
+
+# July 17: CAD + BOM
+## Hours Spent: 5
+
+Today, we made progress on the CAD from the wrist of the arm. We spent a lot of time working on the wrong idea of finding a way to install the rollers from the extruder kit, and after designing the next part for a few hours, we realized we could just directly connect it to the "Wrist Pitch End." Then, we fixed the CAD and realized the next part needed precise details about the motor. However, we also realized the delivery date for AliExpress is going past the event, so we had to find new motors and gearboxes, which we did luckily! It also saved us in AliExpress shipping costs so that was a bonus! So, the part from the tip of the arm looks like this now: 
+<img width="1422" height="1023" alt="image" src="https://github.com/user-attachments/assets/bea4c654-e2fb-4fac-b383-1ea5b1491aab" />
+
+The part that we also made on progress looks like this (just need to design a section to fit the motor + gearbox and ensure it connects to the next part, which should hopefully be quick for tomorrow:
+<img width="1170" height="1069" alt="image" src="https://github.com/user-attachments/assets/51847805-71f8-4f99-8f1c-dc297a0b86fe" />
+
+The BOM looks like this now:
+<img width="1865" height="1050" alt="image" src="https://github.com/user-attachments/assets/ddea0c67-2619-4a7c-8a7b-030e967b4d83" />
+
+Tomorrow, hopefully we can make more progress from the lessons learned today ToT
