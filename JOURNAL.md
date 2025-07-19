@@ -3,7 +3,7 @@ title: SCARA 3D Printer
 author: Parth Bhasin and Sujay Golla
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 32
+total_hrs: 38
 ---
 
 # July 1: Brainstorming
@@ -84,3 +84,16 @@ The BOM looks like this now:
 <img width="1865" height="1050" alt="image" src="https://github.com/user-attachments/assets/ddea0c67-2619-4a7c-8a7b-030e967b4d83" />
 
 Tomorrow, hopefully we can make more progress from the lessons learned today ToT
+
+# July 18: CAD
+## Hours Spent: 6
+
+We continued to make progress in both directions. From the wrist end of the arm, we modified and finished on a couple of parts, finishing the wrist section of the arm, and made progress on the forearm. 
+<img width="1020" height="880" alt="image" src="https://github.com/user-attachments/assets/93590982-1fa2-4cc1-a5c6-19ca3f460b23" />
+<img width="1002" height="1088" alt="image" src="https://github.com/user-attachments/assets/d284d135-8772-4c2d-928a-d8eba7778aad" />
+<img width="771" height="591" alt="image" src="https://github.com/user-attachments/assets/08ebc11a-22a7-4ba5-8073-92a2654ed647" />
+<img width="593" height="819" alt="image" src="https://github.com/user-attachments/assets/177370f7-608a-445c-a424-31a615b23238" />
+<img width="1058" height="948" alt="image" src="https://github.com/user-attachments/assets/ae786139-1d8d-40c0-afde-78cc67402dc8" />
+<img width="689" height="430" alt="image" src="https://github.com/user-attachments/assets/9fc436db-c0f9-4d16-bba8-531e15eb1b4a" />
+
+Just plan to continue making progress from both ends!
