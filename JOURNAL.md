@@ -97,3 +97,14 @@ We continued to make progress in both directions. From the wrist end of the arm,
 <img width="689" height="430" alt="image" src="https://github.com/user-attachments/assets/9fc436db-c0f9-4d16-bba8-531e15eb1b4a" />
 
 Just plan to continue making progress from both ends!
+
+# July 19: CAD
+## Hours Spent: 12
+
+We made a lot of progress in the CAD today, possibly over 70% done the entire arm. From the wrist end of the arm, we finished the entirety of J2 and worked on 70% of J1. A lot of parts for J1 are going to be similar to J2, so we hope this will be finished even quicker. The biggest challenge was trying to find a way to create ridges for our timing belts. This took a lot of trial and error, but after hours of work, we figured it out and made it for the J2 components. Here are some parts we worked on and finished today: 
+<img width="680" height="1123" alt="image" src="https://github.com/user-attachments/assets/df847533-d002-4cc0-9bf2-b043ddd52704" />
+<img width="1240" height="1100" alt="image" src="https://github.com/user-attachments/assets/d92f0324-77ab-4ef2-9807-54ddb33befb7" />
+<img width="495" height="1165" alt="image" src="https://github.com/user-attachments/assets/5c373941-7c2a-423d-b952-a424f3239fdd" />
+<img width="712" height="1176" alt="image" src="https://github.com/user-attachments/assets/b0fa24f7-2344-447d-92eb-c3cc1f19dee3" />
+
+Tomorrow, we plan to finish the CAD and submit the proposal!
