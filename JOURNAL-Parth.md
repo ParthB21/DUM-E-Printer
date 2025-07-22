@@ -3,15 +3,14 @@ title: DUM-E Printer (A SCARA 3D Printer)
 author: Parth Bhasin
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 139
+total_hrs: 92
 ---
 
 # July 1: Brainstorming
 ## Hours Spent: 4
 After multiple options were discussed, me and my partner (Sujay Golla) decided to build a SCARA 3D printer. We discussed what features we want our 3D printer to have and looked for inspiration from other 3D Printers.
 
-A feature I want to include:
-- Info display screen (temperature, progress, etc.)
+A feature I want to include is info display screen (temperature, progress, etc.)
 
 # July 3: Reading Tutorials
 ## Hours Spent: 10
@@ -36,25 +35,25 @@ Here is the first page of tutorials doc I made:
 
 
 # July 7: Working on BOM and the wiring diagram
-## Hours Spent: 8
+## Hours Spent: 6
 Today, we worked on finalizing our BOM by sourcing parts from AliExpress and Amazon (wherever they are cheaper) by referencing the same tutorials, picking all the smaller items like wires and tools. I sourced half the parts and my teammate did the rest. For now, our BOM looks like:
 ![image](https://github.com/user-attachments/assets/85b6ffa2-705f-4dd9-9569-538b139e3fe4)
 
 Hopefully, we can get designing in a few days!
 
 # July 9: Starting to make CAD Files
-## Hours Spent: 8
+## Hours Spent: 10
 
 Today, I started working on the CAD files for our printer. I made accounts for Onshape. The reason I chose Onshape is because it allows real-time collaboration online, which is a great feature for people working in teams, and it is also one of the easiest softwares for beginners. I spent a couple hours familiarizing myself with the software by looking at online tutorials and creating mini-projects on Onshape. Then we started discussing about our 3D printer. We narrowed down a couple features for the 3D printer, like deciding between whether we want to split the load by adding another motor and using a smaller gearbox for each or use one stepper motor with a large gearbox. We also discussed if we want to use screws to join the parts or make snap-fit joints. I want to learn more about Onshape and create a list of parts and think about how they will all fit together before diving straight into designing the printer.
 
 # July 10-15: Learning Onshape
-## Hours Spent: 18
+## Hours Spent: 8
 
 I tried to start working on the printer but ran into a lot of issues mainly because we had never used Onshape and weren't familiar with the features and tools. I spent a few days explore different tools and creating mini projects on Onshape. I didn't get started on the actual printer because of some other personal commitments.
 
 
 # July 16: 3D Printed Sections list + CAD
-## Hours Spent: 12
+## Hours Spent: 6
 
 Today, I actually started designing! I created the base plate using circle sketches and extrusions. I am really enjoying working with Onshape!
 The first part looks like this so far:
@@ -63,7 +62,7 @@ The first part looks like this so far:
 Me and my teammate decided to start from the opposite ends. So, I am working on the Base and working my way upwards while he startes from te top and works downward. However, the Base plate and the Base are both complex parts so let's see how many parts I can actually end up making. Moreover, while we are inspired by the tutorial, we are referencing it for the dimensions of bolts and general dimensions of the arm, just so we can go off of something. The actual arm will look different and of course, the functionality will be much more complex and unique. 
 
 # July 17: CAD + BOM
-## Hours Spent: 5
+## Hours Spent: 3
 
 Continued working on the base plate. Learnt a bunch of new features. Most importantly, I leart how to sketch on a curved surface which was kinda tricky for a beginner like me.
 
@@ -74,7 +73,7 @@ The BOM looks like this now:
 <img width="1865" height="1050" alt="image" src="https://github.com/user-attachments/assets/ddea0c67-2619-4a7c-8a7b-030e967b4d83" />
 
 # July 18: CAD
-## Hours Spent: 11
+## Hours Spent: 5
 
 Continued working on the base plate. This is how it currently looks:
 <img width="1104" height="647" alt="image" src="https://github.com/user-attachments/assets/dbef634c-a121-4ecb-9c2f-0f709caefc96" />
