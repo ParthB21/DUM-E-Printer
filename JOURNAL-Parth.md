@@ -7,30 +7,33 @@ total_hrs: 139
 ---
 
 # July 1: Brainstorming
-## Hours Spent: 5
+## Hours Spent: 4
 After multiple options were discussed, me and my partner (Sujay Golla) decided to build a SCARA 3D printer. We discussed what features we want our 3D printer to have and looked for inspiration from other 3D Printers.
 
 A feature I want to include:
 - Info display screen (temperature, progress, etc.)
 
-# July 3: Working on BOM
-## Hours Spent: 3
+# July 3: Reading Tutorials
+## Hours Spent: 10
+
+I browsed the internet to find all the 3D printer or robotic arm tutorials I could find. I also used Hackclub highway 3D printer guides. I watched/read tutorials basically to understand the project better. 
 I started working on the BOM to get a better idea of the dimensions of the parts and electronics to start working on the wiring diagrams and the CAD. We referred to the following tutorials to get a better sense of how our printer will work:
 - https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html
 - https://roboticworx.io/blogs/projects/build-a-5-axis-industrial-grade-robotic-arm-that-learns-how-to
 
 Then, we came up with a rough idea for the BOM:
-- We can't decide between Servos or stepper motors
+- We can't decide between Servos or stepper motors yet
 - Belt, pulley wheels, bearings, wires, jumper wires
 - Motherboard (preferably with Marlin 2.0)
 - Extruder stuff
 - Power supply
 - Filament (for the 3D printed shell of the arm)
 
-We also started gathering links for some of the major expenses and parts for a proper BOM:
-![image](https://github.com/user-attachments/assets/7395b70e-a7b5-4fa7-b740-357efa314767)
-
 We plan to finish the BOM together while working on wiring diagrams and CAD simultaneously to make sure we include all of the components needed to make the project.
+
+Here is the first page of tutorials doc I made:
+<img width="537" height="504" alt="image" src="https://github.com/user-attachments/assets/cc8eba26-1dae-4b32-a49b-7d4cb635758c" />
+
 
 # July 7: Working on BOM and the wiring diagram
 ## Hours Spent: 8
