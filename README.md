@@ -9,7 +9,7 @@ This was an extremely challenging process partly because there is no tutorial to
 We plan on using an affordable prebuilt extruder from Creality to do the actual printing. The Marlin firmware is run by an Mks Robin Nano Motherboard. For the printer's display, we have a TS35 Touchscreen. DUM-E Printer uses 5 Stepper Motors to achieve motion. There are multiple bearings in the joints to facilitate rotation.
 
 ## CAD Model
-<img width="1293" height="1128" alt="image" src="https://github.com/user-attachments/assets/ea49ba38-e007-4066-b438-dbf5591c21d0" />
+<img width="892" height="1092" alt="image" src="https://github.com/user-attachments/assets/9f1826e9-3707-46d6-9f33-54e01ca8fbd6" />
 Note: The different colors were just an internal decision to keep track of changes and versions for different edited parts near the end
 
 ## Wiring Diagram
