@@ -10,15 +10,19 @@ We plan on using an affordable prebuilt extruder from Creality to do the actual 
 
 ## CAD Model
 Isometric view of the assembled arm:
+
 <img width="892" height="1092" alt="image" src="https://github.com/user-attachments/assets/9f1826e9-3707-46d6-9f33-54e01ca8fbd6" />
 
 Top view of the assembled arm:
+
 <img width="330" height="470" alt="image" src="https://github.com/user-attachments/assets/8044f3bc-9c70-4002-a6b8-53c1e1bca7b8" />
 
 Front view of the assembled arm:
+
 <img width="253" height="673" alt="image" src="https://github.com/user-attachments/assets/3d89ba3c-1dbe-4d12-b92b-31a39bcd6aed" />
 
 Side view of the assembled arm:
+
 <img width="463" height="676" alt="image" src="https://github.com/user-attachments/assets/18e7b8a2-e127-49ea-ab8b-9c0c51df1267" />
 
 Note: The blue parts are the ones that need to be 3D printed and the grey ones are the makeshift components
