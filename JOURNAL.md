@@ -128,10 +128,10 @@ You might be wondering how we spent 24 hours in a day. Well, we are a team of 2 
 Same as the previous day, we worked together and our combined time was 24 hours. We finished assembling most of the parts. Next, we had to add a bunch of makeshift parts in the assembly file. These included the bearings, motors, screen, power source, motherboard etc. Basically, these are the parts we are not going to 3D print, but instead buy. For instance, we would buy the motors, not 3D print the motors. But, in order to be 100% precise in the assembly file, we created makeshift designs for all these parts so that the dimensions make sense in the assembly. Moreover, some parts, like the motherboard were too time-consuming and complex, so we just created a cuboid with the max volume to represent the motherboard, obviously we're gonna buy the motherboard, not 3D print it, the design in the assembly file is just for representation. We designed a rough sketch for the extruder and added that to the assembly file for accuracy. Then we found an open-source for a SCARA 3D Printer's firmware which we decided to use as the template for our printer too. The firmware is going to be essentially the same because it is also a SCARA printer and uses the same SCARA kinematics. We will configure the firmware specific to our robot arm once we get the parts. Then, we made a ReadMe file for our printer and now we are finally ready to submit!
 
 Front view of the assembled printer:
-// <img width="444" height="681" alt="image" src="https://github.com/user-attachments/assets/20f53289-2f48-491e-8a1f-919dd3309fdf" />
+<br> <img width="444" height="681" alt="image" src="https://github.com/user-attachments/assets/20f53289-2f48-491e-8a1f-919dd3309fdf" />
 
 Side view of the assembled printer:
-//<img width="644" height="702" alt="image" src="https://github.com/user-attachments/assets/b986159e-1a02-4279-8913-f03baa6715e2" />
+<img width="644" height="702" alt="image" src="https://github.com/user-attachments/assets/b986159e-1a02-4279-8913-f03baa6715e2" />
 
 Isometric view of the assembled printer:
 <img width="301" height="590" alt="image" src="https://github.com/user-attachments/assets/3d18f342-9ec8-4660-b4f4-0ac8cf4a177a" />
