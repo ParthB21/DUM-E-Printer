@@ -49,3 +49,7 @@ https://ceadgroup.com/?gad_source=1&gad_campaignid=16706268843&gbraid=0AAAAADlua
 https://www.3dwasp.com/en/extruders-for-robotic-arm/?utm_term=&utm_campaign=%5BSV%5D+P-Max+-+Cerebro+-+EN&utm_source=adwords&utm_medium=ppc&hsa_acc=3352968755&hsa_cam=22610030082&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22619977153&gbraid=0AAAAADi5FmbN5TTzwj0dd_AGEi3CcjKtL&gclid=Cj0KCQjw64jDBhDXARIsABkk8J5z179wIPrNsbFpnReQB0n60VD38eaT0RRxBTg0PEWfnaxmk3edToUaArlMEALw_wcB
 https://www.youtube.com/watch?v=5toNqaGsGYs
 https://www.youtube.com/watch?v=OiQKw0lZ5Rw
+
+## Quick Notes from Authors
+1. We made makeshift files and got some pre-made files for motors, gearboxes, etc. that are not going to be 3D printed as placeholders to make sure all of our CAD files are formatted properly
+2. We found a template for the Marlin firmware that corresponds to the kinematics of a SCARA 3D Printer, so we plan to use that as a template and configure it based on our arm as we build it physically. 
