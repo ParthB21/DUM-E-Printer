@@ -64,8 +64,8 @@ Me and my teammate decided to start from the opposite ends. So, I am working on 
 
 Continued working on the base plate. Learnt a bunch of new features. Most importantly, I leart how to sketch on a curved surface which was kinda tricky for a beginner like me.
 
-The part that we also made on progress looks like this (just need to design a section to fit the motor + gearbox and ensure it connects to the next part, which should hopefully be quick for tomorrow:
-<img width="1170" height="1069" alt="image" src="https://github.com/user-attachments/assets/51847805-71f8-4f99-8f1c-dc297a0b86fe" />
+<img width="822" height="680" alt="image" src="https://github.com/user-attachments/assets/22ec5293-cd29-4f58-bbb1-067fc9ce33e3" />
+
 
 The BOM looks like this now:
 <img width="1865" height="1050" alt="image" src="https://github.com/user-attachments/assets/ddea0c67-2619-4a7c-8a7b-030e967b4d83" />
