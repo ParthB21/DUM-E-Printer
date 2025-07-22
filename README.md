@@ -10,7 +10,7 @@ We plan on using an affordable prebuilt extruder from Creality to do the actual 
 
 ## CAD Model
 <img width="892" height="1092" alt="image" src="https://github.com/user-attachments/assets/9f1826e9-3707-46d6-9f33-54e01ca8fbd6" />
-Note: The different colors were just an internal decision to keep track of changes and versions for different edited parts near the end
+Note: The blue parts are the ones that need to be 3D printed and the grey ones are the makeshift components
 
 ## Wiring Diagram
 <img width="878" height="592" alt="image" src="https://github.com/user-attachments/assets/e750bcd7-6ea8-4e28-a9ea-e4199738012b" />
