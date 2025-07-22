@@ -1,9 +1,9 @@
 ---
-title: DUM-E Printer (A SCARA 3D Printer)
+title: DUM-E Printer - Sujay's Journal
 authors: Sujay Golla
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
-created_at: 2025-07-02
-total_hrs: 139
+started_working: 2025-07-01
+total_hrs: 89
 ---
 
 # July 1: Brainstorming
