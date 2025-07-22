@@ -10,9 +10,9 @@ total_hrs: 89
 ## Hours Spent: 5
 We decided to build a SCARA 3D printer from various different options. We discussed what features we want our 3D printer to have and looked for inspiration from other 3D Printers.
 
-Some features we want to include:
+Some features I wanted to include:
 - 5 DOF Arm with a 3D printed case
-- Some configuration of an extruder
+- Some configuration of a pre-built extruder
 
 # July 3: Working on BOM
 ## Hours Spent: 3
