@@ -13,7 +13,6 @@ We decided to build a SCARA 3D printer from various different options. We discus
 Some features we want to include:
 - 5 DOF Arm with a 3D printed case
 - Some configuration of an extruder
-- Info display screen (temperature, progress, etc.)
 
 # July 3: Working on BOM
 ## Hours Spent: 3
