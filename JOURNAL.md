@@ -116,7 +116,7 @@ Tomorrow, we plan to finish the CAD and submit the proposal!
 # July 20: CAD
 ## Hours Spent: 28
 
-You might be wondering how we spent 24 hours in a day. Well, we are a team of 2 and we both worked for 14 hours each (we were on call working together the entire day) so it was 20 man-hours. The reason we were so locked in was because we kinda panicked thinking that AliExpress might take too much time to ship the parts and wanted to submit today. Anyways, we finished designing all the parts. Then we started assembling all the parts in the assembly file. There were so many errors and dimensions issues that we had to go back and redo a bunch of parts. The entire process took way longer than we expected and we had to pull an all-nighter. Unfortunately we could not submit because we still had a bunch of stuff left to do. We must submit this tomorrow!
+You might be wondering how we spent more than 24 hours in a day. Well, we are a team of 2 and we both worked for 14 hours each (we were on call working together the entire day) so it was 20 man-hours. The reason we were so locked in was because we kinda panicked thinking that AliExpress might take too much time to ship the parts and wanted to submit today. Anyways, we finished designing all the parts. Then we started assembling all the parts in the assembly file. There were so many errors and dimensions issues that we had to go back and redo a bunch of parts. The entire process took way longer than we expected and we had to pull an all-nighter. Unfortunately we could not submit because we still had a bunch of stuff left to do. We must submit this tomorrow!
 
 <img width="627" height="770" alt="image" src="https://github.com/user-attachments/assets/6d315f8f-133c-4e63-a437-6d69c2af0e0a" />
 
@@ -131,19 +131,19 @@ Front view of the assembled printer:
 <br> <img width="444" height="681" alt="image" src="https://github.com/user-attachments/assets/20f53289-2f48-491e-8a1f-919dd3309fdf" />
 
 Side view of the assembled printer:
-<img width="644" height="702" alt="image" src="https://github.com/user-attachments/assets/b986159e-1a02-4279-8913-f03baa6715e2" />
+<br> <img width="644" height="702" alt="image" src="https://github.com/user-attachments/assets/b986159e-1a02-4279-8913-f03baa6715e2" />
 
 Isometric view of the assembled printer:
-<img width="301" height="590" alt="image" src="https://github.com/user-attachments/assets/3d18f342-9ec8-4660-b4f4-0ac8cf4a177a" />
+<br> <img width="301" height="590" alt="image" src="https://github.com/user-attachments/assets/3d18f342-9ec8-4660-b4f4-0ac8cf4a177a" />
 
 Design for the spool:
-<img width="226" height="260" alt="image" src="https://github.com/user-attachments/assets/61266960-9136-4032-99cb-9a5578addba6" />
+<br> <img width="226" height="260" alt="image" src="https://github.com/user-attachments/assets/61266960-9136-4032-99cb-9a5578addba6" />
 
 Design for the makeshift screen:
-<img width="402" height="331" alt="image" src="https://github.com/user-attachments/assets/c6c9d468-e556-4908-af3e-ece1a2a303fc" />
+<br> <img width="402" height="331" alt="image" src="https://github.com/user-attachments/assets/c6c9d468-e556-4908-af3e-ece1a2a303fc" />
 
 Updated Base Plate with the mount for the screen:
-<img width="712" height="501" alt="image" src="https://github.com/user-attachments/assets/d1a8bc15-a49f-456d-bfce-4eb02dd022da" />
+<br> <img width="712" height="501" alt="image" src="https://github.com/user-attachments/assets/d1a8bc15-a49f-456d-bfce-4eb02dd022da" />
 
 Isometric view of the Makeshift Extruder:
-<img width="568" height="517" alt="image" src="https://github.com/user-attachments/assets/3676b9bf-805e-4167-babf-79662d2356d9" />
+<br> <img width="568" height="517" alt="image" src="https://github.com/user-attachments/assets/3676b9bf-805e-4167-babf-79662d2356d9" />
