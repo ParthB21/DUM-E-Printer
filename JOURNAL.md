@@ -147,3 +147,5 @@ Updated Base Plate with the mount for the screen:
 <br>
 Isometric view of the Makeshift Extruder:
 <br> <img width="568" height="517" alt="image" src="https://github.com/user-attachments/assets/3676b9bf-805e-4167-babf-79662d2356d9" />
+<br>
+Note: We ended up changing the colors in the end to make it all 1 color, for the updated screenshots with the new colour, check the Readme file.
