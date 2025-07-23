@@ -139,3 +139,12 @@ Isometric view of the Makeshift Extruder:
 <br> <img width="568" height="517" alt="image" src="https://github.com/user-attachments/assets/3676b9bf-805e-4167-babf-79662d2356d9" />
 <br>
 Note: We ended up changing the colors in the end to make it all 1 color, for the updated screenshots with the new colour, check the Readme file.
+
+
+# July 22: Working on Feedback
+## Hours Spent: 1
+
+We received feedback from a peer on our submission today and we are really grateful for that. We are looking to improve our DUM-E Printer and this feedback was really useful. Even though my teammate Sujay had calculated all the torque values and chosen the motors appropriately, he had used approximate values for the mass of the parts because we didn't have an exact tutorial to refer to. However, now that we do have the 3D Printed model, I assigned materials to all the parts and collected their masses. I did the calculations using the density of PLA which is 0.001 g/mm^3. PLA is one of the most common 3D printer filaments. Other alternatives incluse ABS and Polycarbonate which have very similar density, thus the mass would not change significantly. Now Sujay is going to rerun the torque calculations tomorrow. In the meantime, I researched more about the other feedback our peer gave us.
+
+Here's the table which contains all the mass values for our printer:
+<img width="1281" height="685" alt="image" src="https://github.com/user-attachments/assets/bf93cb4f-4c2d-414a-a59d-7f6e33fc54ef" />
