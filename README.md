@@ -38,7 +38,7 @@ Note: The blue parts are the ones that need to be 3D printed and the grey ones a
 <img width="878" height="592" alt="image" src="https://github.com/user-attachments/assets/e750bcd7-6ea8-4e28-a9ea-e4199738012b" />
 
 ## BOM
-Note: We used Amazon for some of the parts because they were either the same price or cheaper than Aliexpress. Amazon's delivery is much faster than Aliexpress so we preferred to use it if the price is same or less.
+Note: We used Amazon for some of the parts because they were either the same price or cheaper than Aliexpress. Amazon's delivery is much faster than Aliexpress so we preferred to use it if the price is same or less. All the costs beyond $350 USD will be covered by Sujay and Parth.
 | Part Name | Quantity | CAD Unit Price | USD Unit Price | USD Total Cost | Link |
 |---|---|---|---|---|---|
 | MEISHILE 24V 25A 600W Switching Power Supply | 1 | $40.99 | $29.92 | $29.92 | [Link](https://www.amazon.ca/MEISHILE-Switching-Transformer-Converter-Amplifier/dp/B0C299DG1H) |
