@@ -140,3 +140,43 @@ Isometric view of the Makeshift Extruder:
 <br> <img width="568" height="517" alt="image" src="https://github.com/user-attachments/assets/3676b9bf-805e-4167-babf-79662d2356d9" />
 <br>
 Note: We ended up changing the colors in the end to make it all 1 color, for the updated screenshots with the new colour, check the Readme file.
+
+# July 22 : Feedback and planning
+## Hours spent : 2
+
+After submitting our project, we got some feedback from Toby and decided to work on it asap. First, I broke down the feedback into some steps or guidelines for reference:
+<img width="1121" height="372" alt="image" src="https://github.com/user-attachments/assets/a3b6617c-e3cf-42b7-86e2-62edc190741f" />
+
+Though we realized backlash would be an issue from the start, we decided to try and minimize it after Toby's comment. Shielded wires also seemed necessary so we decided to add that. I realized I should recalculate the final torques, which I will do tomorrow. 
+
+Tomorrow, I'll also work on part sourcing and finding alternatives and ways to cut down the budget a little so that we can potentially use better motors.
+
+# July 23: Torques, Parts, etc.
+## Hours spent: 3
+
+Today, I calculated the torques from the masses Parth calculated. This table helps confirm that our current motors + gearboxes are capable enough to lift the arm.
+<img width="1023" height="766" alt="image" src="https://github.com/user-attachments/assets/0a356698-5225-4f1d-9dc4-97194a5f34a2" />
+
+But, to avoid backlash and compounding error, we had to eliminate as many gearboxes as possible, so we found Nema23 alternatives for the wrist section of the arm. Even if we wanted to remove gearboxes for the others, we couldn't as the gearboxes would still be needed but at least we tried reducing backlash should hopefully that counts for something. I also realized we could cut filament from the budget as I have some 3D pen filament that could be used for testing and save some money there. Here's some parts I found today (but that haven't been added to the BOM):
+<img width="981" height="897" alt="image" src="https://github.com/user-attachments/assets/bc9e14be-8e3a-457c-ae28-882922d9bf29" />
+
+We will update the CAD tmrw and hopefully resubmit everything soon.
+
+# July 24: CAD
+## Hours spent: 1
+
+Today, we changed the sizes for the motor compartments in the wrist section and update the sizes for the screw holes. I worked on Wrist Pitch Mount while Parth worked on Wrist Roll. Here's what I ended up making:
+<img width="1316" height="976" alt="image" src="https://github.com/user-attachments/assets/4ae402c6-7b75-4a86-9ae7-fb1dd1f68717" />
+
+I also realized there were issues with the motor horn for the Wrist Pitch, so I decided to fix those tomorrow.
+
+# July 25: CAD and updating Github
+## Hours spent: 3
+
+Today, I decided to finish the assembly file, group all the components in their final positions together and make sure everything was aligned to polish it. I also added the new Nema23 motors to the assembly.  
+<img width="836" height="1076" alt="image" src="https://github.com/user-attachments/assets/21bf2b2c-622a-455d-b704-6971f691d547" />
+
+I also fixed the Wrist Pitch section by recreating the Wrist Pitch End
+<img width="1079" height="1041" alt="image" src="https://github.com/user-attachments/assets/898f1d17-18f4-446e-8135-674a7695ba95" />
+
+I finalized the BOM and uploaded it to Github. To reply to Toby, I will further explain the belt mechanism, how theres a gap for double layering and increasing the tension. I will talk about ways plan to connect the wires, by sending them through some of the extra holes we made throughout the arm. With this final update, we should hopefully be ready to get approved.
