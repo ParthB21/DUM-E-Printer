@@ -3,7 +3,7 @@ title: DUM-E Printer (A SCARA 3D Printer)
 author: Parth Bhasin
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 93
+total_hrs: 95
 ---
 
 # July 1: Brainstorming
@@ -148,3 +148,18 @@ We received feedback from a peer on our submission today and we are really grate
 
 Here's the table which contains all the mass values for our printer:
 <img width="1281" height="685" alt="image" src="https://github.com/user-attachments/assets/bf93cb4f-4c2d-414a-a59d-7f6e33fc54ef" />
+
+# July 25: Filleting
+## Hours spent: 2
+
+Based on the feedback, I filleted the 3D printed parts today. Then, I also created an exploded diagram of the assembly file. The purpose of the exploded diagram is for the reviewers to be able to see all the makeshift bearings and the makeshift motors we are using. Additionally, we modified a few parts' dimensions. For example, we increased the length of the Wrist Pitch end because it was colliding with other parts earlier. I also increased the thickness of the screen mount because it was 2 mm earlier and I felt that might be too brittle. My teammate Sujay was working on an updated BOM since we decided to switch 2 of our motors to NEMA-23 without gearboxes to prevent backlash. We added the shielded wires, motors and the M5 bolts in the BOM. He also changed a couple parts and we decided to not use the Wrist Pitch Motor Horn because it would not have held the motor in place so he edited the parts to create a new mechanism to hold the motor in place.
+
+Here are some of the filleted parts and the exploded diagrams:
+
+<img width="216" height="626" alt="image" src="https://github.com/user-attachments/assets/e9ce9d1c-9a57-4b4b-83fc-7288e9dd44aa" />
+
+<img width="379" height="704" alt="image" src="https://github.com/user-attachments/assets/dc207a48-b7e3-4c70-8089-37a7ccaef6bb" />
+
+<img width="174" height="235" alt="image" src="https://github.com/user-attachments/assets/cd7f2b80-8f2b-46ff-9648-9f188dc8e1bf" />
+
+<img width="572" height="298" alt="image" src="https://github.com/user-attachments/assets/2af36b7a-c4fe-4f70-b4e7-a8112f6bbdaa" />
