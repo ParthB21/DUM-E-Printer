@@ -9,21 +9,28 @@ This was an extremely challenging process partly because there is no tutorial to
 We plan on using an affordable prebuilt extruder from Creality to do the actual printing. The Marlin firmware is run by an Mks Robin Nano Motherboard. For the printer's display, we have a TS35 Touchscreen. DUM-E Printer uses 5 Stepper Motors to achieve motion. There are multiple bearings in the joints to facilitate rotation.
 
 ## CAD Model
-Isometric view of the assembled arm:
+Isometric view of the assembled printer:
 
-<img width="892" height="1092" alt="image" src="https://github.com/user-attachments/assets/9f1826e9-3707-46d6-9f33-54e01ca8fbd6" />
+<img width="499" height="610" alt="image" src="https://github.com/user-attachments/assets/9ae98a20-3794-44c8-b39b-953e41bf6d19" />
 
-Top view of the assembled arm:
+Top view of the assembled printer:
 
-<img width="330" height="470" alt="image" src="https://github.com/user-attachments/assets/8044f3bc-9c70-4002-a6b8-53c1e1bca7b8" />
+<img width="310" height="695" alt="image" src="https://github.com/user-attachments/assets/bafcc168-3faf-4f0e-9575-918b13069217" />
 
-Front view of the assembled arm:
+Front view of the assembled printer:
 
-<img width="253" height="673" alt="image" src="https://github.com/user-attachments/assets/3d89ba3c-1dbe-4d12-b92b-31a39bcd6aed" />
+<img width="248" height="685" alt="image" src="https://github.com/user-attachments/assets/c6dd499b-586e-4841-9b29-13f030f3f169" />
 
-Side view of the assembled arm:
+Side view of the assembled printer:
 
-<img width="463" height="676" alt="image" src="https://github.com/user-attachments/assets/18e7b8a2-e127-49ea-ab8b-9c0c51df1267" />
+<img width="662" height="666" alt="image" src="https://github.com/user-attachments/assets/44d2b13b-2851-4779-b700-ebcbfb8c47e9" />
+
+Exploded Diagram of the printer (to view the motors and the bearings):
+
+<img width="379" height="704" alt="image" src="https://github.com/user-attachments/assets/4cc959fd-b1a6-4b19-b93b-f2d8bf9f4766" />
+
+<img width="216" height="626" alt="image" src="https://github.com/user-attachments/assets/9a663953-a13c-495b-8712-df441ea6aa9b" />
+
 
 Note: The blue parts are the ones that need to be 3D printed and the grey ones are the makeshift components
 
