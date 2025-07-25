@@ -3,7 +3,7 @@ title: DUM-E Printer (A SCARA 3D Printer)
 author: Parth Bhasin
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 95
+total_hrs: 96
 ---
 
 # July 1: Brainstorming
@@ -148,6 +148,11 @@ We received feedback from a peer on our submission today and we are really grate
 
 Here's the table which contains all the mass values for our printer:
 <img width="1281" height="685" alt="image" src="https://github.com/user-attachments/assets/bf93cb4f-4c2d-414a-a59d-7f6e33fc54ef" />
+
+# July 24: Updating motor compartments
+## Hours spent: 1
+
+We decided to switch 2 of our motors to NEMA-23 without gearboxes to prevent backlash. Since the NEMA-23 motors are bigger, we had to change the dimensions of our motor compartments. Changed the CAD diagrams to acommodate bigger motors.
 
 # July 25: Filleting
 ## Hours spent: 2
