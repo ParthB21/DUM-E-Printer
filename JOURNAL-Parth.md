@@ -3,7 +3,8 @@ title: DUM-E Printer (A SCARA 3D Printer)
 author: Parth Bhasin
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
-total_hrs: 96
+total_hrs_submitted: 92
+total_hrs_worked: 96 (Note: we modified a few things after submission and updated the CAD files and Readme)
 ---
 
 # July 1: Brainstorming
