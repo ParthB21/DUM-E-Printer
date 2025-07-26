@@ -6,7 +6,7 @@ created_at: 2025-07-02
 total_hrs_submitted: 92
 total_hrs_worked: 96
 ---
- (Note: we modified a few things after submission and updated the CAD files and Readme)
+ (Note: we modified a few things after submission and updated the CAD files and Readme which is why the submitted hours and total hours do not match)
  
 # July 1: Brainstorming
 ## Hours Spent: 4
