@@ -4,7 +4,7 @@ authors: Sujay Golla
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 started_working: 2025-07-01
 total_hrs_submitted: 89
-total_hrs_worked: 98
+total_hrs_worked: 106
 ---
 (Note: we modified a few things after submission and updated the CAD files and Readme which is why the submitted hours and total hours do not match)
 
@@ -182,3 +182,19 @@ I also fixed the Wrist Pitch section by recreating the Wrist Pitch End
 <img width="1079" height="1041" alt="image" src="https://github.com/user-attachments/assets/898f1d17-18f4-446e-8135-674a7695ba95" />
 
 I finalized the BOM and uploaded it to Github. To reply to Toby, I will further explain the belt mechanism, how theres a gap for double layering and increasing the tension. I will talk about ways plan to connect the wires, by sending them through some of the extra holes we made throughout the arm and using adhesive cable ties to make sure they're all in place. With this final update, we should hopefully be ready to get approved.
+
+# September 11: Assembly
+## Hours spent: 3
+
+It took us way too long to get all the parts from Ali Express and to get the 3D printed parts. Also, school started so we couldn't really work on this for long periods of time but finally we started the assembly. We assembled the mechanical parts of the base. We realized 2 errors, firstly, the pulley wheels we ordered for the motors were not the right size. Secondly, the wires from the motor were on the side and the hole we designed for the wire was on the back, thus the motor did not fit in the Wrist Roll. We had to come up with a solution for these problems.
+
+# September 13: Problem-Solving
+## Hours spent: 2
+
+After Alex's approval, we ordered new pulley wheels for the motors. Also, instead of waiting for the wrist roll to be reprinted, we just cut through the part to make a hole for the wires using a heated knife. This is a temporary fix so that we don't stop working and in the long-term, we'll reprint the part.
+
+# September 16: More Assembly
+## Hours spent: 3
+
+We continued working on the assembly for the arm. We realized a couple more errors, such as the belt was not staying in place. The 3D printing was not precise enough for the belt and we tried taping it together but it didn't work. We're really stuck and trying to figure out how to get the belt to stay in place because it's crucial to our design. Moreover, another  3d printed part has a defect (size doesn't match). We need to solve these problems before we can make any further progress.
+
