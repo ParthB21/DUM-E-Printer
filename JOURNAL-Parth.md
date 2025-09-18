@@ -185,4 +185,4 @@ After Alex's approval, we ordered new pulley wheels for the motors. Also, instea
 # September 16: More Assembly
 ## Hours spent: 3
 
-We continued working on the assembly for the arm. We realized a couple more errors, such as the belt was not staying in place. The 3D printing was not precise enough for the belt and we tried taping it together but it didn't work. We're really stuck and trying to figure out how to get the belt to stay in place because it's crucial to our design. Moreover, another of the 3d printed part has a defect. We need to solve these problems before we can make any further progress.
+We continued working on the assembly for the arm. We realized a couple more errors, such as the belt was not staying in place. The 3D printing was not precise enough for the belt and we tried taping it together but it didn't work. We're really stuck and trying to figure out how to get the belt to stay in place because it's crucial to our design. Moreover, another  3d printed part has a defect (size doesn't match). We need to solve these problems before we can make any further progress.
