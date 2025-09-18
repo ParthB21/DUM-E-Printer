@@ -170,3 +170,19 @@ Here are some of the filleted parts and the exploded diagrams:
 <img width="174" height="235" alt="image" src="https://github.com/user-attachments/assets/cd7f2b80-8f2b-46ff-9648-9f188dc8e1bf" />
 
 <img width="572" height="298" alt="image" src="https://github.com/user-attachments/assets/2af36b7a-c4fe-4f70-b4e7-a8112f6bbdaa" />
+
+
+# September 11: Assembly
+## Hours spent: 3
+
+It took us way too long to get all the parts from Ali Express and to get the 3D printed parts. Also, school started so we couldn't really work on this for long periods of time but finally we started the assembly. We assembled the mechanical parts of the base. We realized 2 errors, firstly, the pulley wheels we ordered for the motors were not the right size. Secondly, the wires from the motor were on the side and the hole we designed for the wire was on the back, thus the motor did not fit in the Wrist Roll. We had to come up with a solution for these problems.
+
+# September 13: Problem-Solving
+## Hours spent: 2
+
+After Alex's approval, we ordered new pulley wheels for the motors. Also, instead of waiting for the wrist roll to be reprinted, we just cut through the part to make a hole for the wires using a heated knife. This is a temporary fix so that we don't stop working and in the long-term, we'll reprint the part.
+
+# September 16: More Assembly
+## Hours spent: 3
+
+We continued working on the assembly for the arm. We realized a couple more errors, such as the belt was not staying in place. The 3D printing was not precise enough for the belt and we tried taping it together but it didn't work. We're really stuck and trying to figure out how to get the belt to stay in place because it's crucial to our design. Moreover, another of the 3d printed part has a defect. We need to solve these problems before we can make any further progress.
