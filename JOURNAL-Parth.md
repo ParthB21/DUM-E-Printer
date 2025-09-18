@@ -4,7 +4,7 @@ author: Parth Bhasin
 description: A 5-axis robotic arm that can 3D Print (SCARA 3D printer) 
 created_at: 2025-07-02
 total_hrs_submitted: 92
-total_hrs_worked: 96
+total_hrs_worked: 104
 ---
  (Note: we modified a few things after submission and updated the CAD files and Readme which is why the submitted hours and total hours do not match)
  
