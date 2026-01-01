@@ -78,3 +78,4 @@ https://www.youtube.com/watch?v=OiQKw0lZ5Rw
 2. We found a template for the Marlin firmware that corresponds to the kinematics of a SCARA 3D Printer, so we plan to use that as a template and configure it based on our arm as we build it physically. 
 3. Full Firmware is in the firmware branch of the repository
    - The files that are changed from the original Marlin 2.1 firmware (so far) are: Configuration.h, Configuration_adv.h, scara.h, scara.cpp, motion.cpp, servo.cpp
+   - These files were modified with some help from ChatGPT and will be debugged while building and testing with hardware!
