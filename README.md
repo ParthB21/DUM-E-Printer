@@ -1,6 +1,6 @@
 # DUM-E Printer
 ## Demo at Open Sauce 2026
-https://photos.google.com/share/AF1QipOeK2ER-xSjAJ2ieeAPf7HOZ3vBdmLeT48qi0WV7UTMdEws9TcLIHY0e-tlJJe__g/photo/AF1QipPubrPUdyqB_-R1ecUOWrwfXrqYyl8dd7mb1DFV?key=bHhmaDA0NUZvZVBpWHZYUTZUdVB5T21XOG9DVk5B
+https://github.com/user-attachments/assets/50686566-a4c5-478c-9a64-cf04b380828b
 
 ## The Inspiration
 We wanted to build our own 3D printer. Being die-hard Tony Stark fans, we decided to make a SCARA-style 3D printer. Introducing DUM-E Printer! It is a 5-axis robotic arm with with an extruder attached to the end to 3D print. Jokes aside, this project is really useful, becuase unlike the conventional fusion printers, the SCARA (Selective Compliance Assembly Robotic Arm) style printer is not limited by the volume of the printer bed. Morevoer, it's a lot more precise and offers greater flexibility because it has 5 axes of rotation and can directly print on top of any surface. Most importantly, SCARA-style printers are really expensive with almost no options for hobbyists. The only SCARA printers we could find were for industry and not amateurs, thus we took it as a challenge to make one and possess this cool Tony Stark-style tech.
